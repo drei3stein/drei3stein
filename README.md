@@ -7,12 +7,16 @@
 - Bachelor of **Electrical Engineering, Chongqing University**, Chongqing, China                                                           
 
 - Currently working as **R&D Engineer** in **Institute of Deep Perception Technology (IDPT),  Jiangsu Industrial Technology Research Institute**, Wuxi, China
+- Worked in Schneider Electric as ETO-Secondary Designer, 2019
 
   
 
 ### 🌱 Interest
 - **Millimeter-wave radar** 
   
+    - Radar Imaging
+    - Smart Radar for Physical Sign Detection
+
 - **Image Recognition using Deep Learning**
   
     - Classification
