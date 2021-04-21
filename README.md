@@ -30,7 +30,7 @@
 
 - HAM (Call sign TBD)
 
-- Photography (Canon AE-1 | Sony A6000)
+- Photography (Canon 5D Mark II | Canon 7D | Canon AE-1 | Sony A6000 | Sony F717)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lei1205&show_icons=true" alt="lei1205" /></p>
 
