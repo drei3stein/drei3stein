@@ -36,4 +36,4 @@
 
 
 ### 📫 How to reach me
-- E-mail: lei.chen.ht@qq.com
+- E-mail: chen.lei@cqu.edu.cn
