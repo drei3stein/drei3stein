@@ -6,7 +6,7 @@
 
 - Bachelor of **Electrical Engineering, Chongqing University**, Chongqing, China                                                           
 
-- Currently working as **R&D Engineer** in **Institute of Deep Perception Technology (IDPT),  Jiangsu Industrial Technology Research Institute**, Wuxi, China
+- Worked as **R&D Engineer** in **Institute of Deep Perception Technology (IDPT),  Jiangsu Industrial Technology Research Institute**, Wuxi, China, 2021
 - Worked in Schneider Electric as ETO-Secondary Designer, 2019
 
   
@@ -14,8 +14,9 @@
 ### 🌱 Interest
 - **Millimeter-wave radar** 
   
-    - Radar Imaging
     - Smart Radar for Physical Sign Detection
+    - Radar Imaging
+    
 
 - **Image Recognition using Deep Learning**
   
@@ -26,7 +27,9 @@
     
 
 ### 👯 Hobby
-- [Personal Blog (Simplified Chinese)](https://www.mintonspace.com)
+- Philosophy & Linguistics
+- 
+- [Personal Blog (Simplified Chinese)](https://lei.cq.cn)
 
 - HAM (Call sign TBD)
 
