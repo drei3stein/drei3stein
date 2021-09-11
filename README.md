@@ -28,10 +28,10 @@
 
 ### 👯 Hobby
 - Philosophy & Linguistics
-- 
+
 - [Personal Blog (Simplified Chinese)](https://lei.cq.cn)
 
-- HAM (Call sign TBD)
+- HAM
 
 - Photography (Canon 5D Mark II | Canon 7D | Canon AE-1 | Sony A6000 | Sony F717)
 
