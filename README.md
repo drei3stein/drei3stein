@@ -16,7 +16,6 @@
   
     - Smart Radar for Physical Sign Detection
     - Radar Imaging
-    
 
 - **Image Recognition using Deep Learning**
   
@@ -33,7 +32,7 @@
 
 - HAM
 
-- Photography (Canon 5D Mark II | Canon 7D | Canon AE-1 | Sony A6000 | Sony F717)
+- Photography
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lei1205&show_icons=true" alt="lei1205" /></p>
 
