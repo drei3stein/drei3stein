@@ -1,4 +1,4 @@
-### Chen, Lei [@lei1205](https://lei1205.github.io)
+### Minton Chen [@lei1205](https://lei1205.github.io)
 
 ![](https://komarev.com/ghpvc/?username=lei1205&color=green)
 
