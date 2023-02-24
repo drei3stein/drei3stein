@@ -1,5 +1,7 @@
 ### Minton Chen ![](https://komarev.com/ghpvc/?username=lei1205&color=green)
 
+Research Interest: Perception & Optimization
+
 Master of **Electrical and Computer Engineering, Universidade de Macau**, Macau SAR, China
 
 Bachelor of **Electrical Engineering, Chongqing University**, Chongqing, China                                                           
