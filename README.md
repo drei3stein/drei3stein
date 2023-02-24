@@ -7,5 +7,6 @@ Master of **Electrical and Computer Engineering, Universidade de Macau**, Macau 
 Bachelor of **Electrical Engineering, Chongqing University**, Chongqing, China                                                           
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lei1205&layout=compact)](https://github.com/lei1205/github-readme-stats)
-[![Minton's GitHub stats](https://github-readme-stats.vercel.app/api?username=lei1205)](https://github.com/lei1205/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=lei1205&show_icons=true&line_height=20&card_width=300px)]()
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=lei1205&layout=compact&line_height=20&card_width=390px)]()
