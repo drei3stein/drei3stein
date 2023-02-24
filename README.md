@@ -1,6 +1,4 @@
-### Minton Chen
-
-![](https://komarev.com/ghpvc/?username=lei1205&color=green)
+### Minton Chen ![](https://komarev.com/ghpvc/?username=lei1205&color=green)
 
 Master of **Electrical and Computer Engineering, Universidade de Macau**, Macau SAR, China
 
