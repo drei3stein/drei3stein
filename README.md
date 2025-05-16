@@ -1,4 +1,4 @@
-### Minton Chen ![](https://komarev.com/ghpvc/?username=lei1205&color=green)
+### Minton Chen ![](https://komarev.com/ghpvc/?username=drei3stein&color=green)
 
 Research Interest: Perception & Optimization
 
